@@ -1,6 +1,6 @@
 {
   "appId": "com.mhxxdex.app",
   "appName": "MHXXDex",
-  "webDir": "prototype",
+  "webDir": "mh-dex-web-master/prototype",
   "bundledWebRuntime": false
 }
