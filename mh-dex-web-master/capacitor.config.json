@@ -1,0 +1,6 @@
+{
+  "appId": "com.mhxxdex.app",
+  "appName": "MHXXDex",
+  "webDir": "prototype",
+  "bundledWebRuntime": false
+}
