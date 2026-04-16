@@ -1,0 +1,130 @@
+_id,class,name,name_de,name_fr,name_es,name_it,name_ja,base_hp,icon_name,sort_name,metadata
+1,0,Rathian,Rathian,Rathian,Rathian,Rathian,"リオレイア",4500,monster_rathian,Rathian,7
+2,0,Rathalos,Rathalos,Rathalos,Rathalos,Rathalos,"リオレウス",4200,monster_rathalos,Rathalos,7
+3,0,Khezu,Khezu,Khezu,Khezu,Khezu,"フルフル",4500,monster_khezu,Khezu,7
+4,0,Basarios,Basarios,Basarios,Basarios,Basarios,"バサルモス",3400,monster_basarios,"",6
+5,0,Gravios,Gravios,Gravios,Gravios,Gravios,"グラビモス",4400,monster_gravios,"",6
+7,0,Diablos,Diablos,Diablos,Diablos,Diablos,"ディアブロス",4500,monster_diablos,"",6
+8,0,"Yian Kut-Ku","Yian Kut-Ku","Yian Kut-Ku","Yian Kut-Ku","Yian Kut-Ku","イャンクック",3800,monster_yian_kut_ku,"Yian Kut-Ku",7
+9,0,Gypceros,Gypceros,Gypceros,Gypceros,Gypceros,"ゲリョス",3900,monster_gypceros,Gypceros,7
+10,0,Plesioth,Plesioth,Plesioth,Plesioth,Plesioth,"ガノトトス",4000,monster_plesioth,Plesioth,6
+11,0,Kirin,Kirin,Kirin,Kirin,Kirin,"キリン",3200,monster_kirin,Kirin,7
+12,0,"Lao-Shan Lung","Lao-Shan Lung","Lao-Shan Lung","Lao-Shan Lung","Lao-Shan Lung","ラオシャンロン",25000,monster_lao_shan_lung,"",4
+13,0,Fatalis,Fatalis,Fatalis,Fatalis,Fatalis,"ミラボレアス",9000,monster_fatalis,"",4
+14,0,Velocidrome,Velocidrome,Velocidrome,Velocidrome,Velocidrome,"ドスランポス",2000,monster_velocidrome,Velocidrome,7
+15,0,Gendrome,Gendrome,Gendrome,Gendrome,Gendrome,"ドスゲネポス",2500,monster_gendrome,Gendrome,7
+16,0,Iodrome,Iodrome,Iodrome,Iodrome,Iodrome,"ドスイーオス",3500,monster_iodrome,Iodrome,7
+17,0,Cephadrome,Cephadrome,Cephadrome,Cephadrome,Cephadrome,"ドスガレオス",3000,monster_cephadrome,Cephadrome,7
+18,0,"Yian Garuga","Yian Garuga","Yian Garuga","Yian Garuga","Yian Garuga","イャンガルルガ",4200,monster_yian_garuga,"Yian Garuga",7
+19,0,"Daimyo Hermitaur","Daimyo Hermitaur","Hermitaur Daimyo","Daimyo Hermitaur","Daimyo Hermitaur","ダイミョウザザミ",3300,monster_daimyo_hermitaur,"Daimyo Hermitaur",7
+20,0,"Shogun Ceanataur","Shogun Ceanataur","Ceanataur Shogun","Shogun Ceanataur","Shogun Ceanataur","ショウグンギザミ",4000,monster_shogun_ceanataur,"Shogun Ceanataur",7
+21,0,Congalala,Congalala,Congalala,Congalala,Congalala,"ババコンガ",4600,monster_congalala,"",6
+22,0,Blangonga,Blangonga,Blangonga,Blangonga,Blangonga,"ドドブランゴ",4200,monster_blangonga,Blangonga,7
+23,0,Rajang,Rajang,Rajang,Rajang,Rajang,"ラージャン",4500,monster_rajang,Rajang,6
+24,0,"Kushala Daora","Kushala Daora","Kushala Daora","Kushala Daora","Kushala Daora","クシャルダオラ",4200,monster_kushala_daora,"Kushala Daora",7
+25,0,Chameleos,Chameleos,Chameleos,Chameleos,Chameleos,"オオナズチ",6400,monster_chameleos,Chameleos,7
+27,0,Teostra,Teostra,Teostra,Teostra,Teostra,"テオ・テスカトル",5300,monster_teostra,Teostra,7
+30,0,Bulldrome,Bulldrome,Bulldrome,Bulldrome,Bulldrome,"ドスファンゴ",1800,monster_bulldrome,Bulldrome,7
+32,0,Tigrex,Tigrex,Tigrex,Tigrex,Tigrex,"ティガレックス",5000,monster_tigrex,Tigrex,7
+33,0,Akantor,Akantor,Akantor,Akantor,Akantor,"アカムトルム",7100,monster_akantor,Akantor,6
+34,0,Giadrome,Giadrome,Giadrome,Giadrome,Giadrome,"ドスギアノス",2400,monster_giadrome,"",6
+36,0,Lavasioth,Lavasioth,Lavasioth,Lavasioth,Lavasioth,"ヴォルガノス",4500,monster_lavasioth,Lavasioth,6
+37,0,Nargacuga,Nargacuga,Nargacuga,Nargacuga,Nargacuga,"ナルガクルガ",4200,monster_nargacuga,Nargacuga,7
+38,0,Ukanlos,Ukanlos,Ukanlos,Ukanlos,Ukanlos,"ウカムルバス",7000,monster_ukanlos,Ukanlos,6
+42,0,Barioth,Barioth,Barioth,Barioth,Barioth,"ベリオロス",4400,monster_barioth,"",6
+43,0,Deviljho,"Dämonjho",Deviljho,Deviljho,Deviljho,"イビルジョー",6600,monster_deviljho,Deviljho,6
+44,0,Barroth,Barroth,Barroth,Barroth,Barroth,"ボルボロス",3800,monster_barroth,"",6
+45,0,Uragaan,Uragaan,Uragaan,Uragaan,Uragaan,"ウラガンキン",4300,monster_uragaan,Uragaan,7
+46,0,Lagiacrus,Lagiacrus,Lagiacrus,Lagiacrus,Lagiacrus,"ラギアクルス",5000,monster_lagiacrus,Lagiacrus,7
+47,0,"Royal Ludroth","Königs-Ludroth","Ludroth royal","Ludroth Real","Ludroth reale","ロアルドロス",4100,monster_royal_ludroth,"Royal Ludroth",7
+49,0,Agnaktor,Agnaktor,Agnaktor,Agnaktor,Agnaktor,"アグナコトル",4600,monster_agnaktor,Agnaktor,6
+50,0,Alatreon,Alatreon,Alatreon,Alatreon,Alatreon,"アルバトリオン",6000,monster_alatreon,Alatreon,6
+55,0,Duramboros,Duramboros,Duramboros,Duramboros,Duramboros,"ドボルベルク",6600,monster_duramboros,Duramboros,6
+56,0,Nibelsnarf,Nibelsnarf,Nibelsnarf,Nibelsnarf,Nibelsnarf,"ハプルボッカ",4000,monster_nibelsnarf,Nibelsnarf,7
+57,0,Zinogre,Zinogre,Zinogre,Zinogre,Zinogre,"ジンオウガ",5300,monster_zinogre,Zinogre,7
+58,0,Amatsu,Amatsu,Amatsu,Amatsu,Amatsu,"アマツマガツチ",8700,monster_amatsu,Amatsu,6
+60,0,Arzuros,Arzuros,Arzuros,Arzuros,Arzuros,"アオアシラ",2400,monster_arzuros,Arzuros,7
+61,0,Lagombi,Lagombi,Lagombi,Lagombi,Lagombi,"ウルクスス",3600,monster_lagombi,Lagombi,7
+62,0,Volvidon,Volvidon,Volvidon,Volvidon,Volvidon,"ラングロトラ",3800,monster_volvidon,Volvidon,7
+63,0,Brachydios,Brachydios,Brachydios,Brachydios,Brachydios,"ブラキディオス",4600,monster_brachydios,Brachydios,7
+65,0,"Kecha Wacha","Kecha Wacha","Kecha Wacha","Kecha Wacha","Kecha Wacha","ケチャワチャ",3800,monster_kecha_wacha,"Kecha Wacha",6
+66,0,Tetsucabra,Tetsucabra,Tetsucabra,Tetsucabra,Tetsucabra,"テツカブラ",4000,monster_tetsucabra,Tetsucabra,7
+67,0,Zamtrios,Zamtrios,Zamtrios,Zamtrios,Zamtrios,"ザボアザギル",5200,monster_zamtrios,Zamtrios,6
+68,0,Najarala,Najarala,Najarala,Najarala,Najarala,"ガララアジャラ",4350,monster_najarala,Najarala,7
+69,0,"Seltas Queen","Seltas-Königin","Reine Seltas","Seltas Reina","Seltas regina","ゲネル・セルタス",5200,monster_seltas_queen,"Seltas Queen",6
+70,0,Nerscylla,Nerscylla,Nerscylla,Nerscylla,Nerscylla,"ネルスキュラ",3900,monster_nerscylla,"",6
+71,0,"Gore Magala","Gore Magala","Gore Magala","Gore Magala","Gore Magala","ゴア・マガラ",4800,monster_gore_magala,"Gore Magala",7
+72,0,"Shagaru Magala","Shagaru Magala","Shagaru Magala","Shagaru Magala","Shagaru Magala","シャガルマガラ",5500,monster_shagaru_magala,"Shagaru Magala",7
+76,0,Seltas,Seltas,Seltas,Seltas,Seltas,"アルセルタス",2000,monster_seltas,Seltas,6
+77,0,Seregios,Seregios,Seregios,Seregios,Seregios,"セルレギオス",4200,monster_seregios,Seregios,7
+79,0,Malfestio,Malfestio,Malfestio,Malfestio,Malfestio,"ホロロホルル",4000,monster_malfestio,Malfestio,7
+80,0,Glavenus,Glavenus,Glavenus,Glavenus,Glavenus,"ディノバルド",4400,monster_glavenus,Glavenus,7
+81,0,Astalos,Astalos,Astalos,Astalos,Astalos,"ライゼクス",4500,monster_astalos,Astalos,7
+82,0,Mizutsune,Mizutsune,Mizutsune,Mizutsune,Mizutsune,"タマミツネ",4600,monster_mizutsune,Mizutsune,7
+83,0,Gammoth,Gammoth,Gammoth,Gammoth,Gammoth,"ガムート",5400,monster_gammoth,Gammoth,7
+84,0,Nakarkos,Nakarkos,Nakarkos,Nakarkos,Nakarkos,"オストガロア",14000,monster_nakarkos,Nakarkos,7
+85,0,"Great Maccao","Groß-Maccao","Grand Maccao","Gran Maccao","Gran Maccao","ドスマッカォ",2000,monster_great_maccao,"Great Maccao",7
+86,0,Valstrax,Valstrax,Valstrax,Valstrax,Valstrax,"バルファルク",4800,monster_valstrax,"",6
+88,0,Ahtal-Ka,Ahtal-Ka,Ahtal-Ka,Ahtal-Ka,Ahtal-Ka,"アトラル・カ",4900,monster_ahtal_ka,"",4
+269,0,"Crimson Fatalis",Karmesinrotes-Fatalis,"Fatalis Rouge","Fatalis Carmesí","Fatalis cremisi","ミラボレアス【紅龍】",8000,monster_crimson_fatalis,"",4
+513,0,"Gold Rathian","Goldene Rathian","Rathian d'or","Rathian Dorada","Rathian dorata","リオレイア希少種",4700,monster_gold_rathian,Rathian-02,6
+514,0,"Silver Rathalos","Silberner Rathalos","Rathalos d'argent","Rathalos Plateado","Rathalos argentato","リオレウス希少種",4900,monster_silver_rathalos,Rathalos-02,6
+525,0,"Old Fatalis",Alter-Fatalis,"Fatalis ancien","Fatalis Ancestral","Fatalis Antico","ミラボレアス【祖龍】",9000,monster_old_fatalis,"",4
+1025,2,"Dreadqueen Rathian",Giftstachel-Rathian,"Rathian Reine-poison","Rathian Maldita","Imperatrix Rathian","紫毒姫リオレイア",4900,monster_dreadqueen_rathian,Rathian-04,7
+1026,2,"Dreadking Rathalos",Dunkelfeuer-Rathalos,"Rathalos Roi-enfer","Rathalos Maldito","Rex Rathalos","黒炎王リオレウス",5300,monster_dreadking_rathalos,Rathalos-04,6
+1031,2,"Bloodbath Diablos",Blutbad-Diablos,"Diablos Bain-de-sang","Diablos Sanguinario","Cruor Diablos","鏖魔ディアブロス",5800,monster_bloodbath_diablos,"",4
+1042,2,"Deadeye Yian Garuga","Narbiger Yian Garuga","Yian Garuga Œil-mort","Yian Garuga Cíclope","Caecus Yian Garuga","隻眼イャンガルルガ",5000,monster_deadeye_yian_garuga,"Yian Garuga-04",6
+1043,2,"Stonefist Hermitaur",Steinfaust-Hermitaur,"Hermitaur Poing-fer","Hermitaur Pétreo","Marmor Hermitaur","矛砕ダイミョウザザミ",5500,monster_stonefist_hermitaur,"Daimyo Hermitaur-04",7
+1044,2,"Rustrazor Ceanataur",Rostklauen-Ceanataur,"Ceanataur Brise-os","Ceanataur Férreo","Acutus Ceanataur","鎧裂ショウグンギザミ",4500,monster_rustrazor_ceanataur,"",4
+1056,2,"Grimclaw Tigrex","Düsterklauen-Tigrex","Tigrex Griffe-sombre","Tigrex Guadaña","Furor Tigrex","荒鉤爪ティガレックス",6000,monster_grimclaw_tigrex,Tigrex-04,6
+1061,2,"Silverwind Nargacuga",Silberwind-Nargacuga,"Nargacuga Vent-acier","Nargacuga Argénteo","Ventus Nargacuga","白疾風ナルガクルガ",5000,monster_silverwind_nargacuga,Nargacuga-04,6
+1069,2,"Crystalbeard Uragaan",Kristallbart-Uragaan,"Uragaan Roi-cristal","Uragaan Vítreo","Adamas Uragaan","宝纏ウラガンキン",5500,monster_crystalbeard_uragaan,Uragaan-04,6
+1081,2,"Thunderlord Zinogre",Donnerschlag-Zinogre,"Zinogre Feu-du-ciel","Zinogre Tormenta","Fulgur Zinogre","金雷公ジンオウガ",5800,monster_thunderlord_zinogre,Zinogre-04,6
+1084,2,"Redhelm Arzuros",Rothelm-Arzuros,"Arzuros Crâne-ardent","Arzuros Ámbar","Sanguis Arzuros","紅兜アオアシラ",4500,monster_redhelm_arzuros,Arzuros-04,7
+1085,2,"Snowbaron Lagombi",Schneesturm-Lagombi,"Lagombi Maître-neige","Lagombi Alud","Nix Lagombi","大雪主ウルクスス",4500,monster_snowbaron_lagombi,Lagombi-04,7
+1090,2,"Drilltusk Tetsucabra",Bohrhauer-Tetsucabra,"Tetsucabra Brise-roc","Tetsucabra Toro","Vis Tetsucabra","岩穿テツカブラ",4700,monster_drilltusk_tetsucabra,Tetsucabra-04,6
+1103,2,"Nightcloak Malfestio",Mondschein-Malfestio,"Malfestio Lune-noire","Malfestio Nébula","Occultus Malfestio","朧隠ホロロホルル",4800,monster_nightcloak_malfestio,"",4
+1104,2,"Hellblade Glavenus",Zornklingen-Glavenus,"Glavenus Lame-chaos","Glavenus Inferno","Ignis Glavenus","燼滅刃ディノバルド",5100,monster_hellblade_glavenus,Glavenus-04,6
+1105,2,"Boltreaver Astalos",Blitzschlag-Astalos,"Astalos Prince-orage","Fulmen Astalos","Fulmen Astalos","青電主ライゼクス",5800,monster_boltreaver_astalos,"",4
+1106,2,"Soulseer Mizutsune",Karmaseher-Mizutsune,"Mizutsune Perce-âme","Tengen Mizutsune","Arcanum Mizutsune","天眼タマミツネ",5200,monster_soulseer_mizutsune,"",4
+1107,2,"Elderfrost Gammoth",Eiszapfen-Gammoth,"Gammoth Givre-ancien","Gammoth Glacial","Glacialis Gammoth","銀嶺ガムート",6800,monster_elderfrost_gammoth,"",4
+1303,0,"Furious Rajang",Rajang,Rajang,Rajang,Rajang,"激昂したラージャン",4800,monster_furious_rajang,Rajang-05,6
+1323,0,"Savage Deviljho","Dämonjho",Deviljho,Deviljho,Deviljho,"怒り喰らうイビルジョー",6000,monster_savage_deviljho,Deviljho-05,6
+1343,0,"Raging Brachydios","Wütiger-Brachydios","Brachydios enragé","Brachydios Colérico","Brachydios brutale","猛り爆ぜるブラキディオス",5500,monster_raging_brachydios,"",4
+1351,0,"Chaotic Gore Magala","Chaotic Gore Magala","Gore Magala du chaos","Gore Magala Caótico","Gore Magala caotico","渾沌に呻くゴア・マガラ",5800,monster_chaotic_gore_magala,"",4
+4097,1,Aptonoth,Aptonoth,Aptonoth,Aptonoth,Aptonoth,"アプトノス",0,monster_aptonoth,Aptonoth,7
+4098,1,Apceros,Apceros,Apceros,Apceros,Apceros,"アプケロス",0,monster_apceros,Apceros,7
+4099,1,Kelbi,Kelbi,Kelbi,Kelbi,Kelbi,"ケルビ",0,monster_kelbi,Kelbi,7
+4100,1,Mosswine,Mosswine,Mosswine,Mosswine,Mosswine,"モス",0,monster_mosswine,Mosswine,7
+4101,1,Hornetaur,Hornetaur,Hornetaur,Hornetaur,Hornetaur,"カンタロス",0,monster_hornetaur,Hornetaur,7
+4102,1,Vespoid,Vespoid,Vespoid,Vespoid,Vespoid,"ランゴスタ",0,monster_vespoid,Vespoid,7
+4103,1,Felyne,Felyne,Felyne,Felyne,Felyne,"アイルー",0,monster_felyne,Felyne,7
+4104,1,Melynx,Melynx,Melynx,Melynx,Melynx,"メラルー",0,monster_melynx,Melynx,7
+4105,1,Velociprey,Velociprey,Velociprey,Velociprey,Velociprey,"ランポス",0,monster_velociprey,Velociprey,7
+4106,1,Genprey,Genprey,Genprey,Genprey,Genprey,"ゲネポス",0,monster_genprey,Genprey,7
+4107,1,Ioprey,Ioprey,Ioprey,Ioprey,Ioprey,"イーオス",0,monster_ioprey,Ioprey,7
+4108,1,Cephalos,Cephalos,Cephalos,Cephalos,Cephalos,"ガレオス",0,monster_cephalos,Cephalos,7
+4109,1,Bullfango,Bullfango,Bullfango,Bullfango,Bullfango,"ブルファンゴ",0,monster_bullfango,Bullfango,7
+4110,1,Popo,Pepe,Popo,Popo,Popo,"ポポ",0,monster_popo,Popo,7
+4111,1,Giaprey,Giaprey,Giaprey,Giaprey,Giaprey,"ギアノス",0,monster_giaprey,Giaprey,7
+4112,1,Anteka,Anteka,Anteka,Anteka,Anteka,"ガウシカ",0,monster_anteka,Anteka,7
+4113,1,"Great Thunderbug","Großer Donnerkäfer","Grand foudrinsecte","Gran Insectrueno","Insetto-tuono grande","大雷光虫",0,monster_great_thunderbug,"",7
+4115,1,Remobra,Remobra,Remobra,Remobra,Remobra,"ガブラス",0,monster_remobra,Remobra,7
+4116,1,Hermitaur,Hermitaur,Hermitaur,Hermitaur,Hermitaur,"ヤオザミ",0,monster_hermitaur,Hermitaur,7
+4117,1,Ceanataur,Ceanataur,Ceanataur,Ceanataur,Ceanataur,"ガミザミ",0,monster_ceanataur,Ceanataur,7
+4118,1,Conga,Conga,Conga,Conga,Conga,"コンガ",0,monster_conga,"",7
+4119,1,Blango,Blango,Blango,Blango,Blango,"ブランゴ",0,monster_blango,Blango,7
+4121,1,Rhenoplos,Rhenoplos,Rhenoplos,Rhenoplos,Rhenoplos,"リノプロス",0,monster_rhenoplos,Rhenoplos,7
+4122,1,Bnahabra,Bnahabra,Bnahabra,Bnahabra,Bnahabra,"ブナハブラ",0,monster_bnahabra,Bnahabra,7
+4123,1,Altaroth,Altaroth,Altaroth,Altaroth,Altaroth,"オルタロス",0,monster_altaroth,Altaroth,7
+4130,1,Jaggi,Jaggi,Jaggi,Jaggi,Jaggi,"ジャギィ",0,monster_jaggi,Jaggi,7
+4131,1,Jaggia,Jaggia,Jaggia,Jaggia,Jaggia,"ジャギィノス",0,monster_jaggia,Jaggia,7
+4135,1,Ludroth,Ludroth,Ludroth,Ludroth,Ludroth,"ルドロス",0,monster_ludroth,Ludroth,7
+4136,1,Uroktor,Uroktor,Uroktor,Uroktor,Uroktor,"ウロコトル",0,monster_uroktor,Uroktor,7
+4137,1,Slagtoth,Slagtoth,Slagtoth,Slagtoth,Slagtoth,"ズワロポス",0,monster_slagtoth,Slagtoth,7
+4138,1,Gargwa,Gargwa,Gargwa,Gargwa,Gargwa,"ガーグァ",0,monster_gargwa,Gargwa,7
+4140,1,Zamite,Zamite,Zamite,Zamite,Zamite,"スクアギル",0,monster_zamite,Zamite,7
+4141,1,Konchu,Konchu,Konchu,Konchu,Konchu,"クンチュウ",0,monster_konchu,Konchu,7
+4142,1,Maccao,Maccao,Maccao,Maccao,Maccao,"マッカォ",0,monster_maccao,Maccao,7
+4143,1,Larinoth,Larinoth,Larinoth,Larinoth,Larinoth,"リモセトス",0,monster_larinoth,Larinoth,7
+4144,1,Moofah,Muufah,Moofah,Moofah,Moofah,"ムーファ",0,monster_moofah,Mufa,7
